@@ -1,0 +1,37 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "app designed to take user inputs through prompts to creat HTML page",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "jest": "^26.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "yes"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franamaus/team-profile-generator.git"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "oop",
+    "tdd",
+    "tested",
+    "inquirer",
+    "jest",
+    "generator"
+  ],
+  "author": "Theresa Nguyen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/franamaus/team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/franamaus/team-profile-generator#readme"
+}
